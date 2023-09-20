@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.image-bg{
+    background-image: url('./Img/image.png');
+}
+.bg-green{
+    background-color: #4AAB3D;
+}
+.text-green,span{
+    color: #4AAB3D;
+}
+header{
+    background-color: #fff;
+    position:sticky;
+    top: 0;
+    z-index: 10;
+}
+.text-gray{
+    color: #727272;
+}
+.bg-gray{
+   background-color: #3e3e3e; 
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+}
+input,select{
+    border:1px solid #EAEAEA;
+}
+.my-container{
+    margin: 0 auto;
+    width: 80%;
+}
+.button-color{
+    border-radius: 3px;
+    background-color: #393939;
+}
+.upper-footer{
+    background-color: #242425;
+}
+#search,#icon{
+    border-radius: 3px;
+}
+#search{
+    padding: 12px 55px ;
+}
+footer{
+    background-color: #212122;
+}
+.upper-layer{
+    background-color: #3e3e3e;
+    color: #fff;
+    border-radius: 0px 40px 40px 40px;
+    padding: 15px 8px ;
+    margin-left: 210px;
+    margin-top: 10px;
+}
